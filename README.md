@@ -47,6 +47,7 @@ Bu uygulama, canlı altın fiyatlarını almak için **GoldAPI** kullanır.
 Uygulamayı çalıştırmadan önce API anahtarını bir **environment variable** olarak tanımlamanız gerekir.
 
 ## 📁 Proje Yapısı
+
 GoldCalculator.java # Ana JavaFX uygulaması
 GoldRateService.java # Güncel altın fiyatını alan API servisi
 ConvertingGrams.java #  Gelecekte gram dönüşüm ve hesaplama özellikleri için ayrılmış ek sahne
@@ -105,6 +106,7 @@ Before running the application, you must define the API key as an **environment 
 ---
 
 ## 📁 Project Structure
+
 GoldCalculator.java # Main JavaFX application
 GoldRateService.java # API service that retrieves the current gold price
 ConvertingGrams.java # Scene reserved for future gram conversion and calculation features
