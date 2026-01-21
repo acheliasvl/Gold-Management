@@ -53,7 +53,7 @@ GoldRateService.java # Güncel altın fiyatını alan API servisi
 ConvertingGrams.java #  Gelecekte gram dönüşüm ve hesaplama özellikleri için ayrılmış ek sahne
 stylesheet.css # Uygulama stil dosyası
 
-#### English
+# English
 
 # Gold-Management
 
