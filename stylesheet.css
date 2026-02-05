@@ -3,6 +3,7 @@
 }
 
 .button{
+
 	-fx-background-color: #ffc107; 
 	-fx-border-color: #f9e076;
 }
@@ -25,4 +26,28 @@
 .menu-item{
 	-fx-background-color: #b37e2e; 
 	-fx-border-color:#b37e2e;
+
+	-fx-background-color: #fafad2; 
+	-fx-border-color: #ffd700;
+}
+
+.root{
+	-fx-background-color: linear-gradient(to bottom right,  #8fbc8f, #d2b48c) ;
+}
+
+.combo-box{
+	-fx-background-color: #fafad2;
+}
+
+.menu-bar{
+	-fx-background-color: rgba(60, 179, 113, 0.5); 
+}
+
+.menu{
+	-fx-border-color:  #8fbc8f;
+}
+.menu-item{
+	-fx-background-color: rgba(60, 179, 113, 0.5); 
+	-fx-border-color: #8fbc8f;
+
 }
