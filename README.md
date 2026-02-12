@@ -52,6 +52,8 @@ GoldCalculator.java # Ana JavaFX uygulaması
 GoldRateService.java # Güncel altın fiyatını alan API servisi
 ConvertingGrams.java #  Gelecekte gram dönüşüm ve hesaplama özellikleri için ayrılmış ek sahne
 stylesheet.css # Uygulama stil dosyası
+InvestmentDAO.java # Program ve veritabani arasindaki iletisim saglanir
+Investment.java # DAO'dan gelen veriyi object olusturarak tutar ve UI'da görünmesini saglar
 
 # English
 
@@ -111,4 +113,6 @@ GoldCalculator.java # Main JavaFX application
 GoldRateService.java # API service that retrieves the current gold price
 ConvertingGrams.java # Scene reserved for future gram conversion and calculation features
 stylesheet.css # Application style sheet
+InvestmentDAO.java # The communication between the program and its database
+Investment.java # Holds the data from DAO and saves it as object to show the user.
 
